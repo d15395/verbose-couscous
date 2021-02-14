@@ -15,4 +15,4 @@ For more details, visit:
 
 Alternatively, yoy can mirror the repository, as mentioned in [Git duplicate repo documentation](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/duplicating-a-repository)
 
-Once this is done, please create the package directory under the `src/` path, and update the `package_src_path` variable in `setup.py` script.
+Once this is done, please create the package directory under the `src/` path, and update the `[metadata]` parameters in `setup.cfg` file.
